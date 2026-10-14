@@ -72,94 +72,94 @@ The following table compares leading commercial Workplace Safety, EHS, and OSHA 
 
 Open-source safety software enables complete data sovereignty, self-hosting on local servers, integration with edge computing devices (like NVIDIA Jetson), and customization for specialized worksite hazards.
 
-Repositories are listed in descending order by **GitHub Star Count**:
+Repositories are listed in descending order by **GitHub Stars_Count**:
 
-### 1. [Checkmarx/kics](https://github.com/Checkmarx/kics) [![GitHub stars](https://img.shields.io/github/stars/Checkmarx/kics?style=social&color=white)](https://github.com/Checkmarx/kics/stargazers)
+### 1. [Checkmarx/kics](https://github.com/Checkmarx/kics) [![GitHub_Stars](https://img.shields.io/github/stars/Checkmarx/kics?style=social&color=white)](https://github.com/Checkmarx/kics/stargazers)
 - **Primary Focus:** Static Compliance & Security Auditing for Infrastructure as Code (IaC)
 - **Key Features:** Automated scanning for misconfigurations, regulatory compliance checks across Terraform, Kubernetes, Docker, and CloudFormation. Adaptable for automated workplace safety compliance rules in IoT and physical facility control architectures.
 - **Tech Stack:** Go • Apache-2.0 License
 
-### 2. [snehilsanyal/Construction-Site-Safety-PPE-Detection](https://github.com/snehilsanyal/Construction-Site-Safety-PPE-Detection) [![GitHub stars](https://img.shields.io/github/stars/snehilsanyal/Construction-Site-Safety-PPE-Detection?style=social&color=white)](https://github.com/snehilsanyal/Construction-Site-Safety-PPE-Detection/stargazers)
+### 2. [snehilsanyal/Construction-Site-Safety-PPE-Detection](https://github.com/snehilsanyal/Construction-Site-Safety-PPE-Detection) [![GitHub_Stars](https://img.shields.io/github/stars/snehilsanyal/Construction-Site-Safety-PPE-Detection?style=social&color=white)](https://github.com/snehilsanyal/Construction-Site-Safety-PPE-Detection/stargazers)
 - **Primary Focus:** Construction Site PPE Detection
 - **Key Features:** Deep learning computer vision pipeline utilizing YOLOv8 to verify whether personnel are properly equipped with hard hats, high-visibility vests, boots, and safety gloves.
 - **Tech Stack:** Python • YOLOv8 • PyTorch • Jupyter Notebook
 
-### 3. [AnshulSood11/PPE-Detection-YOLO-Deep_SORT](https://github.com/AnshulSood11/PPE-Detection-YOLO-Deep_SORT) [![GitHub stars](https://img.shields.io/github/stars/AnshulSood11/PPE-Detection-YOLO-Deep_SORT?style=social&color=white)](https://github.com/AnshulSood11/PPE-Detection-YOLO-Deep_SORT/stargazers)
+### 3. [AnshulSood11/PPE-Detection-YOLO-Deep_SORT](https://github.com/AnshulSood11/PPE-Detection-YOLO-Deep_SORT) [![GitHub_Stars](https://img.shields.io/github/stars/AnshulSood11/PPE-Detection-YOLO-Deep_SORT?style=social&color=white)](https://github.com/AnshulSood11/PPE-Detection-YOLO-Deep_SORT/stargazers)
 - **Primary Focus:** Real-Time PPE Detection with Multi-Worker Tracking
 - **Key Features:** Combines YOLO object detection with DeepSORT tracking algorithms to continuously trace individual workers across CCTV frames and audit PPE non-compliance without double-counting violations.
 - **Tech Stack:** Python • OpenCV • YOLO • DeepSORT
 
-### 4. [ZijianWang-ZW/PPE_detection](https://github.com/ZijianWang-ZW/PPE_detection) [![GitHub stars](https://img.shields.io/github/stars/ZijianWang-ZW/PPE_detection?style=social&color=white)](https://github.com/ZijianWang-ZW/PPE_detection/stargazers)
+### 4. [ZijianWang-ZW/PPE_detection](https://github.com/ZijianWang-ZW/PPE_detection) [![GitHub_Stars](https://img.shields.io/github/stars/ZijianWang-ZW/PPE_detection?style=social&color=white)](https://github.com/ZijianWang-ZW/PPE_detection/stargazers)
 - **Primary Focus:** Industrial PPE Detection & Open Benchmark Dataset
 - **Key Features:** Production-grade YOLO detection pipeline coupled with high-quality annotated training datasets for industrial safety inspections and gear compliance auditing.
 - **Tech Stack:** Python • YOLO • PyTorch
 
-### 5. [Ismailjm/PPE_detection_using_YOLOV8](https://github.com/Ismailjm/PPE_detection_using_YOLOV8) [![GitHub stars](https://img.shields.io/github/stars/Ismailjm/PPE_detection_using_YOLOV8?style=social&color=white)](https://github.com/Ismailjm/PPE_detection_using_YOLOV8/stargazers)
+### 5. [Ismailjm/PPE_detection_using_YOLOV8](https://github.com/Ismailjm/PPE_detection_using_YOLOV8) [![GitHub_Stars](https://img.shields.io/github/stars/Ismailjm/PPE_detection_using_YOLOV8?style=social&color=white)](https://github.com/Ismailjm/PPE_detection_using_YOLOV8/stargazers)
 - **Primary Focus:** Real-Time Worksite Safety Verification
 - **Key Features:** Leverages YOLOv8 models to identify required safety apparel (helmets, vests, safety glasses) in hazardous industrial operational zones with instant visual violation bounding boxes.
 - **Tech Stack:** Python • YOLOv8 • Ultralytics
 
-### 6. [prodbykosta/ppe-safety-detection-ai](https://github.com/prodbykosta/ppe-safety-detection-ai) [![GitHub stars](https://img.shields.io/github/stars/prodbykosta/ppe-safety-detection-ai?style=social&color=white)](https://github.com/prodbykosta/ppe-safety-detection-ai/stargazers)
+### 6. [prodbykosta/ppe-safety-detection-ai](https://github.com/prodbykosta/ppe-safety-detection-ai) [![GitHub_Stars](https://img.shields.io/github/stars/prodbykosta/ppe-safety-detection-ai?style=social&color=white)](https://github.com/prodbykosta/ppe-safety-detection-ai/stargazers)
 - **Primary Focus:** Edge Computer Vision for Workplace Safety Auditing
 - **Key Features:** Detects human workers and monitors PPE compliance in real time using YOLO with tracking mechanisms and automated annotated MP4 video output for audit logs.
 - **Tech Stack:** Python • OpenCV • Ultralytics YOLO
 
-### 7. [balakreshnan/WorkplaceSafety](https://github.com/balakreshnan/WorkplaceSafety) [![GitHub stars](https://img.shields.io/github/stars/balakreshnan/WorkplaceSafety?style=social&color=white)](https://github.com/balakreshnan/WorkplaceSafety/stargazers)
+### 7. [balakreshnan/WorkplaceSafety](https://github.com/balakreshnan/WorkplaceSafety) [![GitHub_Stars](https://img.shields.io/github/stars/balakreshnan/WorkplaceSafety?style=social&color=white)](https://github.com/balakreshnan/WorkplaceSafety/stargazers)
 - **Primary Focus:** Cloud & Edge Custom Vision Safety Monitoring
 - **Key Features:** AI-based workplace safety monitoring system designed for perimeter intrusion detection, restricted hazardous zone infractions, and safety protocol enforcement.
 - **Tech Stack:** Python • Azure Custom Vision • OpenCV
 
-### 8. [VoxDroid/Construction-Site-Safety-PPE-Detection](https://github.com/VoxDroid/Construction-Site-Safety-PPE-Detection) [![GitHub stars](https://img.shields.io/github/stars/VoxDroid/Construction-Site-Safety-PPE-Detection?style=social&color=white)](https://github.com/VoxDroid/Construction-Site-Safety-PPE-Detection/stargazers)
+### 8. [VoxDroid/Construction-Site-Safety-PPE-Detection](https://github.com/VoxDroid/Construction-Site-Safety-PPE-Detection) [![GitHub_Stars](https://img.shields.io/github/stars/VoxDroid/Construction-Site-Safety-PPE-Detection?style=social&color=white)](https://github.com/VoxDroid/Construction-Site-Safety-PPE-Detection/stargazers)
 - **Primary Focus:** End-to-End Safety Detection Dashboard
 - **Key Features:** Comprehensive YOLOv8 pipeline featuring training notebooks, pretrained Roboflow weights, live inference scripts, and a Flask web dashboard for real-time compliance reporting.
 - **Tech Stack:** Python • Flask • YOLOv8 • Roboflow
 
-### 9. [zEuS0390/ppe-detection-for-construction-site-safety](https://github.com/zEuS0390/ppe-detection-for-construction-site-safety) [![GitHub stars](https://img.shields.io/github/stars/zEuS0390/ppe-detection-for-construction-site-safety?style=social&color=white)](https://github.com/zEuS0390/ppe-detection-for-construction-site-safety/stargazers)
+### 9. [zEuS0390/ppe-detection-for-construction-site-safety](https://github.com/zEuS0390/ppe-detection-for-construction-site-safety) [![GitHub_Stars](https://img.shields.io/github/stars/zEuS0390/ppe-detection-for-construction-site-safety?style=social&color=white)](https://github.com/zEuS0390/ppe-detection-for-construction-site-safety/stargazers)
 - **Primary Focus:** IoT-Enabled PPE Monitoring & Push Alerts
 - **Key Features:** Cloud-based safety monitoring application delivering instantaneous violation alerts to safety officers' mobile devices via lightweight MQTT messaging protocol.
 - **Tech Stack:** Python • MQTT • Computer Vision • Cloud Backend
 
-### 10. [swadhinbiswas/AegisVision](https://github.com/swadhinbiswas/AegisVision) [![GitHub stars](https://img.shields.io/github/stars/swadhinbiswas/AegisVision?style=social&color=white)](https://github.com/swadhinbiswas/AegisVision/stargazers)
+### 10. [swadhinbiswas/AegisVision](https://github.com/swadhinbiswas/AegisVision) [![GitHub_Stars](https://img.shields.io/github/stars/swadhinbiswas/AegisVision?style=social&color=white)](https://github.com/swadhinbiswas/AegisVision/stargazers)
 - **Primary Focus:** Multi-Camera Behavioral Monitoring & Surveillance
 - **Key Features:** Plug-and-play AI surveillance platform with occupancy tracking, anti-theft memory, unsafe posture recognition, and a Generative-AI copilot for natural language video queries.
 - **Tech Stack:** FastAPI • React • ChromaDB • Elasticsearch • GPL-3.0 License
 
-### 11. [SafetyMP/Autonomous-EHS-Management](https://github.com/SafetyMP/Autonomous-EHS-Management) [![GitHub stars](https://img.shields.io/github/stars/SafetyMP/Autonomous-EHS-Management?style=social&color=white)](https://github.com/SafetyMP/Autonomous-EHS-Management/stargazers)
+### 11. [SafetyMP/Autonomous-EHS-Management](https://github.com/SafetyMP/Autonomous-EHS-Management) [![GitHub_Stars](https://img.shields.io/github/stars/SafetyMP/Autonomous-EHS-Management?style=social&color=white)](https://github.com/SafetyMP/Autonomous-EHS-Management/stargazers)
 - **Primary Focus:** Self-Hosted Incident & Corrective Action Console
 - **Key Features:** Self-hosted EHS management console supporting incident logging, CAPA verification, audit trails, and Total Recordable Incident Rate (TRIR) metrics with Docker Compose.
 - **Tech Stack:** PostgreSQL • Docker • Python
 
-### 12. [darshan1654/AI-PPE-Detection](https://github.com/darshan1654/AI-PPE-Detection) [![GitHub stars](https://img.shields.io/github/stars/darshan1654/AI-PPE-Detection?style=social&color=white)](https://github.com/darshan1654/AI-PPE-Detection/stargazers)
+### 12. [darshan1654/AI-PPE-Detection](https://github.com/darshan1654/AI-PPE-Detection) [![GitHub_Stars](https://img.shields.io/github/stars/darshan1654/AI-PPE-Detection?style=social&color=white)](https://github.com/darshan1654/AI-PPE-Detection/stargazers)
 - **Primary Focus:** Industrial CCTV Surveillance & Anomaly Detection
 - **Key Features:** Real-time CCTV analysis for helmets, masks, and safety vests, paired with anomaly detection for unauthorized area entries. Tested in industrial CNC manufacturing environments.
 - **Tech Stack:** Python • Streamlit • OpenCV • YOLO
 
-### 13. [rh-ai-quickstart/multimodal-compliance-monitor](https://github.com/rh-ai-quickstart/multimodal-compliance-monitor) [![GitHub stars](https://img.shields.io/github/stars/rh-ai-quickstart/multimodal-compliance-monitor?style=social&color=white)](https://github.com/rh-ai-quickstart/multimodal-compliance-monitor/stargazers)
+### 13. [rh-ai-quickstart/multimodal-compliance-monitor](https://github.com/rh-ai-quickstart/multimodal-compliance-monitor) [![GitHub_Stars](https://img.shields.io/github/stars/rh-ai-quickstart/multimodal-compliance-monitor?style=social&color=white)](https://github.com/rh-ai-quickstart/multimodal-compliance-monitor/stargazers)
 - **Primary Focus:** Multimodal Safety Compliance & Operational Chatbot
 - **Key Features:** Real-time safety monitoring using YOLO for object detection and BoxMOT for tracking, paired with an LLM conversational assistant to query site violation history.
 - **Tech Stack:** Python • BoxMOT • YOLO • Kubernetes / Helm
 
-### 14. [asgardehs/odin](https://github.com/asgardehs/odin) [![GitHub stars](https://img.shields.io/github/stars/asgardehs/odin?style=social&color=white)](https://github.com/asgardehs/odin/stargazers)
+### 14. [asgardehs/odin](https://github.com/asgardehs/odin) [![GitHub_Stars](https://img.shields.io/github/stars/asgardehs/odin?style=social&color=white)](https://github.com/asgardehs/odin/stargazers)
 - **Primary Focus:** Local-First EHS Compliance Desktop Application
 - **Key Features:** Standalone, single-binary Go application built by veteran EHS professionals for incident recordkeeping, chemical inventories, and safety training tracking without external cloud dependencies.
 - **Tech Stack:** Go • SQLite • Local-First • GPL-3.0 License
 
-### 15. [xbs0325/industrial-inspection](https://github.com/xbs0325/industrial-inspection) [![GitHub stars](https://img.shields.io/github/stars/xbs0325/industrial-inspection?style=social&color=white)](https://github.com/xbs0325/industrial-inspection/stargazers)
+### 15. [xbs0325/industrial-inspection](https://github.com/xbs0325/industrial-inspection) [![GitHub_Stars](https://img.shields.io/github/stars/xbs0325/industrial-inspection?style=social&color=white)](https://github.com/xbs0325/industrial-inspection/stargazers)
 - **Primary Focus:** Edge AI Industrial Inspection for NVIDIA Jetson
 - **Key Features:** Seeed Studio reference demo combining YOLO for PPE checks with Vision-Language Models (VLM) for complex hazard behaviors (smoking, phone usage, falls) over WebRTC streams.
 - **Tech Stack:** Docker • NVIDIA Jetson • YOLO • WebRTC
 
-### 16. [AhmedMohammed4/osha-vision-auditor](https://github.com/AhmedMohammed4/osha-vision-auditor) [![GitHub stars](https://img.shields.io/github/stars/AhmedMohammed4/osha-vision-auditor?style=social&color=white)](https://github.com/AhmedMohammed4/osha-vision-auditor/stargazers)
+### 16. [AhmedMohammed4/osha-vision-auditor](https://github.com/AhmedMohammed4/osha-vision-auditor) [![GitHub_Stars](https://img.shields.io/github/stars/AhmedMohammed4/osha-vision-auditor?style=social&color=white)](https://github.com/AhmedMohammed4/osha-vision-auditor/stargazers)
 - **Primary Focus:** Video-Based OSHA Compliance Inspector
 - **Key Features:** Upload construction footage to automatically detect missing hard hats and safety vests. Generates automated safety risk scores (0–100) and AI audit summaries with clickable violation timestamps.
 - **Tech Stack:** Python 3.11 • YOLOv8 • Next.js • Supabase
 
-### 17. [chidubemOkafor/SafeSight.AI](https://github.com/chidubemOkafor/SafeSight.AI) [![GitHub stars](https://img.shields.io/github/stars/chidubemOkafor/SafeSight.AI?style=social&color=white)](https://github.com/chidubemOkafor/SafeSight.AI/stargazers)
+### 17. [chidubemOkafor/SafeSight.AI](https://github.com/chidubemOkafor/SafeSight.AI) [![GitHub_Stars](https://img.shields.io/github/stars/chidubemOkafor/SafeSight.AI?style=social&color=white)](https://github.com/chidubemOkafor/SafeSight.AI/stargazers)
 - **Primary Focus:** Industrial Safety Video Auditing & LLM Assistant
 - **Key Features:** Automated YOLO-based PPE detector with evidence frame extraction and natural language question answering powered by Hugging Face models.
 - **Tech Stack:** FastAPI • Next.js 15 • Docker Compose • HuggingFace
 
-### 18. [EU-OSHA/oira.application.buildout](https://github.com/EU-OSHA/oira.application.buildout) [![GitHub stars](https://img.shields.io/github/stars/EU-OSHA/oira.application.buildout?style=social&color=white)](https://github.com/EU-OSHA/oira.application.buildout/stargazers)
+### 18. [EU-OSHA/oira.application.buildout](https://github.com/EU-OSHA/oira.application.buildout) [![GitHub_Stars](https://img.shields.io/github/stars/EU-OSHA/oira.application.buildout?style=social&color=white)](https://github.com/EU-OSHA/oira.application.buildout/stargazers)
 - **Primary Focus:** Online Interactive Risk Assessment (OiRA) Platform
 - **Key Features:** Official open-source risk assessment platform by the European Agency for Safety and Health at Work (EU-OSHA) for small and medium-sized enterprises.
 - **Tech Stack:** Python • Plone CMS • Zope
